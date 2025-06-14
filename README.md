@@ -4,7 +4,7 @@ This repository contains an exploratory data analysis (EDA) project on the **Zom
 
 ## 📊 Project Description
 
-Zomato is a popular food delivery and restaurant discovery platform. This dataset contains detailed information about restaurants in Bangalore, including location, cuisines, pricing, ratings, and delivery options.
+Zomato is a popular food delivery and restaurant discovery platform. This dataset contains detailed information about restaurants including location, cuisines, pricing, ratings, and delivery options.
 
 The notebook performs:
 - Data Cleaning
